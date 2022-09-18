@@ -28,7 +28,7 @@ Home page
 
 Responsive
 
-![main](https://github.com/Propsowicz/intro-section-with-dropdown-navigation-main/blob/gh-pages/intro%20resp%201.webp?raw=true)
+![main](https://github.com/Propsowicz/intro-section-with-dropdown-navigation-main/blob/gh-pages/intro%20resp%201.webp?raw=true | width=100)
 
 Responsive with sidebar active
 
