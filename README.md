@@ -24,4 +24,12 @@ This is one was my first project with React. Webpage is fully responsive.
 
 Home page
 
-![main](https://github.com/Propsowicz/huddle-landing-page-with-alternating-feature-blocks-master/blob/main/main.webp?raw=true)
+![main](https://github.com/Propsowicz/intro-section-with-dropdown-navigation-main/blob/gh-pages/intro%20main.webp?raw=true)
+
+Responsive
+
+![main](https://github.com/Propsowicz/intro-section-with-dropdown-navigation-main/blob/gh-pages/intro%20resp%201.webp?raw=true)
+
+Responsive with sidebar active
+
+![main](https://github.com/Propsowicz/intro-section-with-dropdown-navigation-main/blob/gh-pages/intro%20resp%202.webp?raw=true)
