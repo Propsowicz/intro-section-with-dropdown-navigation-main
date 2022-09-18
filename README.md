@@ -32,4 +32,4 @@ Responsive
 
 Responsive with sidebar active
 
-![main](https://github.com/Propsowicz/intro-section-with-dropdown-navigation-main/blob/gh-pages/intro%20resp%202.webp?raw=true)
+![main](https://github.com/Propsowicz/intro-section-with-dropdown-navigation-main/blob/gh-pages/intro%20resp%202.webp?raw=true =250x250)
