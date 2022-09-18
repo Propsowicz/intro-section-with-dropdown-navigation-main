@@ -24,4 +24,4 @@ This is one was my first project with React. Webpage is fully responsive.
 
 Home page
 
-[!home](intro main.webp)
+![main](https://github.com/Propsowicz/huddle-landing-page-with-alternating-feature-blocks-master/blob/main/main.webp?raw=true)
