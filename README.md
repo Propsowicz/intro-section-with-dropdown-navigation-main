@@ -24,4 +24,4 @@ This is one was my first project with React. Webpage is fully responsive.
 
 Home page
 
-[home](intro main.webp)
+[!home](intro main.webp)
