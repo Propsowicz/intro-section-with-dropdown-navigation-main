@@ -7,7 +7,7 @@ This is one was my first project with React. Webpage is fully responsive.
 ## Demo
 
 
-[Project DEMO](https://propsowicz.github.io/interactive-rating-component-main/)
+[Project DEMO](https://propsowicz.github.io/intro-section-with-dropdown-navigation-main/)
 
 
 ## Technologies
